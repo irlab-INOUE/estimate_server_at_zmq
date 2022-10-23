@@ -1,3 +1,0 @@
-/Users/senapo/IRLab/zmq_test5/getdistance/build/CMakeFiles/getdistance.dir
-/Users/senapo/IRLab/zmq_test5/getdistance/build/CMakeFiles/edit_cache.dir
-/Users/senapo/IRLab/zmq_test5/getdistance/build/CMakeFiles/rebuild_cache.dir
